@@ -1,0 +1,4 @@
+npm init -y - membuat package.json
+npm install express mysql2 sequelize cors
+npm i -g nodemon
+nodemon index
